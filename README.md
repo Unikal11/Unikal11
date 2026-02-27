@@ -17,7 +17,7 @@
 
 
 
- 🌱 I’m currently learning **advance cyber security**
+ 
 
   📫 How to reach me **fazil.zamanov.ap@gmail.com**
 
